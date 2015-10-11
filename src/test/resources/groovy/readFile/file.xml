@@ -1,0 +1,10 @@
+<staff>
+	<department name="sales">
+		<employee>
+			<firstName>Orlando</firstName>
+		</employee>
+		<employee>
+			<firstName>Diana</firstName>
+		</employee>
+	</department>
+</staff>

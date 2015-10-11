@@ -1,0 +1,11 @@
+{
+	"staff": {
+	    "department": {
+	    	"name": "sales",
+			"employeeList": [
+	        	{ "firstName": "Orlando" }, 
+				{ "firstName": "Diana" } 
+			]
+		} 
+	}
+}
